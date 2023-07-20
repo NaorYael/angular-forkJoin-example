@@ -1,0 +1,40 @@
+[
+    {
+    "products": [
+        {
+            "id": "1",
+            "name": "Apple",
+            "price": "free",
+            "category": "Fruits"
+        },
+        {
+            "id": "2",
+            "name": "Horse",
+            "price": "Free",
+            "category": "Meat"
+        },
+        {
+            "id": "3",
+            "name": "Cow",
+            "price": "Free",
+            "category": "Meat"
+        },
+        {
+            "id": "4",
+            "name": "Banana",
+            "price": "Free",
+            "category": "Fruits"
+        },
+        {
+            "id": "5",
+            "name": "Grass",
+            "price": "Free",
+            "category": "Vegetabes"
+        },
+        {
+            "id": "6",
+            "price": "Free",
+            "category": "Vegetabes"
+        }
+    ]
+}]
